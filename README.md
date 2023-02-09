@@ -1,1 +1,1 @@
-# AlbumMaker
+# search bar, buttons , image grid
